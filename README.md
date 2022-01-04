@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Hi! This project can be used as NextJS template to login with Google account or to register a new account with any e-mail in order to login as well. 
 
-In this project I used React/NextJS, Tailwind CSS and Firebase. For any question about this project, anyone may contact me anytime by fluviora@gmail.com. Before using it, don´t forget to create your own .env.local file with the DB environment variables.Enjoy it"
+In this project I used React/NextJS, Tailwind CSS, Firebase and TypeScript. For any question about this project, anyone may contact me anytime by fluviora@gmail.com. Before using it, don´t forget to create your own .env.local file with the DB environment variables.Enjoy it"
 
 
 ## Getting Started
