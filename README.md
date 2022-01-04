@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Hi! This project can be used as NextJS template to login with Google account or to register a new account with any e-mail in order to login as well. 
+
+In this project I used React/NextJS, Tailwind CSS and Firebase. For any question about this project, anyone may contact me anytime by fluviora@gmail.com. Before using it, don´t forget to create your own .env.local file with the DB environment variables.Enjoy it"
+
+
 ## Getting Started
 
 First, run the development server:
